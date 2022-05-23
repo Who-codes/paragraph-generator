@@ -1,1 +1,1 @@
-# pragraph-generator
+Random Paragraph Generator
